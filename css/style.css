@@ -32,3 +32,8 @@ body {
     vertical-align: middle;
     line-height: 30px;
 }
+
+.place-holder {
+    width: 100%;
+    height: 500px;
+}
