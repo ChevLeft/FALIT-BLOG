@@ -3,9 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Simple Blog</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+    <header>
+        <div class="container">
+            <h1>My Simple Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home" class="container">
+        <h2>Welcome to My Blog</h2>
+        <p>This is a place where I share my thoughts and experiences.</p>
+    </section>
+
+    <section id="blog" class="container">
+        <h2>Recent Posts</h2>
+        <article class="post">
+            <h3>Post Title 1</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lacinia odio ut neque sodales, in ultricies tortor viverra.</p>
+            <a href="#">Read more...</a>
+        </article>
+
+        <article class="post">
+            <h3>Post Title 2</h3>
+            <p>Pellentesque tincidunt nibh vel augue pulvinar fermentum. Aenean ut feugiat ligula.</p>
+            <a href="#">Read more...</a>
+        </article>
+    </section>
+
+    <section id="about" class="container">
+        <h2>About Me</h2>
+        <p>Hi, I'm [Your Name], a blogger passionate about [Your Passion]. I write about [Topics].</p>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 My Simple Blog. All Rights Reserved.</p>
+        </div>
+    </footer>
 </body>
 </html>
