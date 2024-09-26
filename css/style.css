@@ -32,6 +32,11 @@ body {
     color: aliceblue;
 }
 
+.hero-main h1 {
+    display: block;
+    margin: auto 70% auto 30%;
+}
+
 .body-main {
     margin: 0 auto;
     width: 90%;
