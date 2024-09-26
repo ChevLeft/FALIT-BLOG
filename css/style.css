@@ -33,11 +33,11 @@ body {
     display: flex;
     align-items: center; 
     padding-left: 20px;
+    overflow: hidden;
 }
 
 .hero-main h1 {
-    align-items: center; 
-    padding-left: 20px; 
+    
 
 }
 
