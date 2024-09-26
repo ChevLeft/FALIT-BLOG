@@ -39,27 +39,3 @@ body {
     vertical-align: middle;
     line-height: 30px;
 }
-
-/* MLA Format for Blog Post */
-.mla-header p {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 12pt;
-    margin: 0;
-    line-height: 2; /* Double spacing */
-}
-
-.mla-title {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 14pt;
-    text-align: center;
-    margin-top: 20px;
-}
-
-.mla-content p {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 12pt;
-    text-align: justify;
-    line-height: 2; /* Double spacing */
-    margin-top: 1em;
-    text-indent: 0.5in; /* Indent the first line of each paragraph */
-}
