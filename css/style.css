@@ -33,8 +33,9 @@ body {
 }
 
 .hero-main h1 {
-    display: block;
-    margin: 50% 70% 50% 30%;
+    vertical-align: middle;
+    line-height: 600px;
+
 }
 
 .body-main {
