@@ -20,11 +20,13 @@ body {
     line-height: 80px;
 }
 
-    .hero-main {
-        height: 70px;
-        width: 100%;
-        background-image: url("https://www.shutterstock.com/shutterstock/videos/3489793103/thumb/1.jpg?ip=x480");
-    }
+.hero-main {
+    height: 70px;
+    width: 100%;
+    background-image: url("https://wallpapers.com/images/high/broken-tv-ujyeb0q3aq4i5nnb.webp");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
 
 .body-main {
     margin: 0 auto;
