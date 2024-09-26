@@ -30,12 +30,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
     color: aliceblue;
+    display: flex;
 }
 
 .hero-main h1 {
-    display: flex;
-    align-items: center; /* Vertically center */
-    padding-left: 20px; /* Adjust this to move text away from the left */
+    align-items: center; 
+    padding-left: 20px; 
 
 }
 
