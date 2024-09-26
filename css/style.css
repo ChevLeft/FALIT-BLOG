@@ -46,14 +46,15 @@ body {
 
 .body-main {
     margin: 0 auto;
-    width: 90%;
+    width: 100%;
     height: auto;
-    background-color: antiquewhite;
+    background-color: rgb(49, 49, 49);
 }
 
 .review-list {
     width: 90%;
     margin: auto;
+    color: aliceblue;
 
 }
 
