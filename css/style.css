@@ -32,13 +32,14 @@ body {
 }
 
 .hero-main {
-    height: 600px;
+    height: 450px;
     width: 100%;
     background-image: url("https://cdn.discordapp.com/attachments/1027029690327765054/1288867312421572638/file-meMMHrGln574RXjN4qwyIZQw.png?ex=66f6beb9&is=66f56d39&hm=1872d513428a6315a499092710d71ffe7481c4d1dae14056aa4c90e63f7757b4&");
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
     text-align: left;
     color: aliceblue;
     display: flex;
