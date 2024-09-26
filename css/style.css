@@ -33,10 +33,9 @@ body {
 }
 
 .hero-main h1 {
-    vertical-align: middle;
-    line-height: 600px;
-    margin-left: 30%;
-    margin-right: 60%;
+    display: flex;
+    align-items: center; /* Vertically center */
+    padding-left: 20px; /* Adjust this to move text away from the left */
 
 }
 
