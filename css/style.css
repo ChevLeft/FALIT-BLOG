@@ -31,6 +31,8 @@ body {
     text-align: left;
     color: aliceblue;
     display: flex;
+    align-items: center; 
+    padding-left: 20px;
 }
 
 .hero-main h1 {
